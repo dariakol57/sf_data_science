@@ -1,35 +1,64 @@
-# Project 0. Guess a number
+# Проект 0. Угадай число
 
-## Contents
-[1. Description of the project](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
+## Оглавление  
+[1. Описание проекта](.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
+[5. Результат](.README.md#Результат)    
+[6. Выводы](.README.md#Выводы) 
 
-[2. The goal](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Goal)
-
-[3. Data info](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
-
-[4. Result](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
-
-### Description of the project
-
-Guess the number using the minimum number of attempts
-
-:arrow_up:[table of contents](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Contents)
-
-### Goal of the project
-Write a program to guess the number using the minimum number of attempts
-
-**Conditions:**
-- The computer thinks of an integer from 0 to 100, and we need to guess it.  By "guess" means program that guesses a number.
-- The algorithm takes into account information about whether the random number is greater or less than what we need.
-
-**Quality metric**
-The results are evaluated by the average number of attempts at 1000 repetitions
-
-**Why to practice**
-Learning to write good python code
+### Описание проекта    
+Программа угадывает загаданное компьютером число за минимальное число попыток.
+В качестве ответа на каждую попытку, программа возвращает информацию о том, больше или меньше загаданное число.
+Эта информация используется в качестве границ для генератора случайных чисел в следующей итерации.
 
 
-### Brief information about data
-......
+:arrow_up:[к оглавлению](_)
 
-:arrow_up:[table of contents](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Contents)
+
+### Какой кейс решаем?    
+Нужно написать программу, которая угадывает число за минимальное число попыток
+
+**Условия соревнования:**  
+- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
+- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+
+**Метрика качества**     
+Результаты оцениваются по среднему количеству попыток при 1000 повторений
+
+**Что практикуем**     
+-Учимся писать хороший код на Python.
+
+-Учимся работать с IDE.
+
+-Учимся работать с GitHub.
+
+
+### Краткая информация о данных
+....
+  
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Этапы работы над проектом  
+1. Создаем функцию random_predict , которая угадывает число рандомно выбирая его из заданного диапазона (изначально [1:100]).
+При каждой следующей итерации границы сужаются, с учетом информации, было ли предыдущее предположение больше или меньше загаданного числа.
+В качестве ответа функция возвращает количество попыток, потребоввшееся чтобы отгадать загаданное число.
+
+2. Создаем функцию score_game, вызывающее random_predict для 1000 рандомно загаданных чисел.
+В качестве ответа функция сообщает среднее количество попыток, необходимое чтобы отгадать число в диапазоне от 1 до 100.
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Результаты:  
+В среднем требуется 7-8 попыток, чтобы программа отгадала число.
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+
+### Выводы:  
+....
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
