@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Результат)    
-[6. Выводы](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Результат)    
+[6. Выводы](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Игра game_v2 (game_v2.py) угадывает загаданное компьютером число за минимальное число попыток.
@@ -14,7 +14,7 @@
 Эта информация используется в качестве границ для генератора случайных чисел в следующей итерации.
 
 
-:arrow_up:[к оглавлению](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -38,7 +38,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -49,16 +49,16 @@
 2. Создаем функцию score_game, вызывающее random_predict для 1000 рандомно загаданных чисел.
 В качестве ответа функция сообщает среднее количество попыток, необходимое чтобы отгадать число в диапазоне от 1 до 100.
 
-:arrow_up:[к оглавлению](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 В среднем требуется 7-8 попыток, чтобы программа отгадала число.
 
-:arrow_up:[к оглавлению](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Оглавление)
