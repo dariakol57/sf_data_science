@@ -2,8 +2,11 @@
 
 ## Contents
 [1. Description of the project](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
+
 [2. The goal](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Goal)
+
 [3. Data info](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
+
 [4. Result](https://github.com/dariakol57/sf_data_science/tree/main/Project_0/README.md#Description)
 
 ### Description of the project
