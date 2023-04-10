@@ -1,3 +1,10 @@
+game.py
+game.ipynb_checkpoints
+
+# CSV extensions
+*.CSV
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
