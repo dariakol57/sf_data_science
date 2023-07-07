@@ -1,3 +1,5 @@
+#pip freeze > ../requirements.txt
+
 from numpy.core.numeric import count_nonzero
 """Игра угадай число
 Компьютер сам загадывает и сам угадывает число
@@ -22,6 +24,7 @@ def random_predict(number: int = 1) -> int:
     upperlim = 101
     
     while True:
+        if count > 50: break
         count += 1
         #predict_number = np.random.randint(1, 101)  # предполагаемое число
         predict_number = np.random.randint(lowerlim, upperlim)  # предполагаемое число в изменяемых границах
@@ -45,7 +48,7 @@ def score_game(random_predict) -> int:
     Returns:
         int: среднее количество попыток
     """
-    count_ls = []
+    #count_ls = []
     np.random.seed(1)  # фиксируем сид для воспроизводимости
     random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
     #print(random_array)
