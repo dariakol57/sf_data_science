@@ -11,3 +11,7 @@
 3. разведывательный анализ
 
 4. очистка данных
+
+
+# Дополнительные материалы:
+Начальные данные можно скачать [здесь](https://drive.google.com/drive/folders/1gdzplBJhksIchrXNwlStRVJKqnzRWgGk?usp=drive_link) 
