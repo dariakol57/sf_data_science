@@ -3,4 +3,4 @@
 ## Projects
 * [Project 0. Game: Guess a number](https://github.com/dariakol57/sf_data_science/tree/main/Project_0)
 * [Project 1. Анализ резюме из HeadHunter](https://github.com/dariakol57/sf_data_science/tree/main/Project_1)
-* [Project 2. ___________](???????)
+* [Project 2. Data Understanding: Анализ вакансий](https://github.com/dariakol57/sf_data_science/tree/main/Project_2)
