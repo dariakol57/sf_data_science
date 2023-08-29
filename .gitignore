@@ -4,12 +4,12 @@ game.ipynb
 file*
 
 #folders
-#Project_0a
+Project_1/data
 guess-number-task
 
 
 # CSV extensions
-*.CSV
+#*.CSV
 
 
 # Byte-compiled / optimized / DLL files
