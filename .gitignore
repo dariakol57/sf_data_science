@@ -11,7 +11,7 @@ guess-number-task
 # CSV extensions
 *.CSV
 *.csv
-/Project_3/hotels.csv
+Project_3/hotels.csv
 
 
 # Byte-compiled / optimized / DLL files
@@ -142,4 +142,4 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre
