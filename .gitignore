@@ -9,7 +9,8 @@ guess-number-task
 
 
 # CSV extensions
-#*.CSV
+*.CSV
+./Project_3/hotels.csv
 
 
 # Byte-compiled / optimized / DLL files
