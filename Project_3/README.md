@@ -13,10 +13,7 @@
 
 
 # Дополнительные материалы:
-<<<<<<< HEAD
 Начальные данные можно скачать [здесь](https://www.kaggle.com/competitions/sf-booking/data) 
-=======
-Начальные данные можно скачать [здесь](https://drive.google.com/file/d/1IgKyunEaO-Ig8oDS4ultcBkVOdv7911-/view?usp=drive_link) 
 
 
 >>>>>>> b04e06a50a7d8dd5e452b704cfc4f1efc6d849d3
