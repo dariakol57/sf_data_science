@@ -13,7 +13,7 @@
 
 
 # Дополнительные материалы:
-Начальные данные можно скачать [здесь](https://drive.google.com/file/d/1IgKyunEaO-Ig8oDS4ultcBkVOdv7911-/view?usp=drive_link) 
+Начальные данные можно скачать [здесь](https://www.kaggle.com/competitions/sf-booking/data) 
 
 
 Первоначальная версия датасета содержит 17 полей со следующей информацией:
