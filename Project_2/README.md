@@ -1,18 +1,17 @@
-# Отчистка и обработка данных для HeadHunter
+# Data Cleaning and Processing for HeadHunter
 
- Кадровое агентство, которое подбирает вакансии для IT-специалистов. 
+A recruiting agency that finds job openings for IT specialists.
 
- Проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. 
- 
- Проект посвящен Data Understanding, или анализу данных. 
- Здесь мы проверяем, что из себя представляют данные и насколько они соответствуют целям проекта. 
+The project involves creating a machine learning model that will recommend job openings to the agency's clients applying for Data Scientist positions.
 
-# Проект состоит из четырёх частей:
+The project focuses on Data Understanding, or data analysis.
 
-1. знакомство с данными;
-2. предварительный анализ данных;
-3. детальный анализ вакансий;
-4. анализ работодателей;
-5. предметный анализ.
+Here, we check the data and how it meets the project's objectives.
 
+# The project consists of four parts:
 
+1. Data Introduction;
+2. Preliminary Data Analysis;
+3. Detailed Job Analysis;
+4. Employer Analysis;
+5. Subject Analysis.
