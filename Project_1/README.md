@@ -1,17 +1,16 @@
-# Отчистка и обработка данных для HeadHunter
+# Data Cleaning and Processing for HeadHunter
 
-Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Данный проект посвящен преобразованию, исследованию и очиститке данных для последующего построения модели.
+HeadHunter wants to build a model that would automatically determine the approximate salary level suitable for a user based on the information they provide about themselves. This project focuses on transforming, exploring, and cleaning data for subsequent model building.
 
-# Проект состоит из четырёх частей:
+# The project consists of four parts:
 
-1. базовый анализ структуры данных
+1. Basic data structure analysis
 
-2. преобразование данных
+2. Data transformation
 
-3. разведывательный анализ
+3. Exploratory analysis
 
-4. очистка данных
+4. Data cleaning
 
-
-# Дополнительные материалы:
-Начальные данные можно скачать [здесь](https://drive.google.com/drive/folders/1gdzplBJhksIchrXNwlStRVJKqnzRWgGk?usp=drive_link) 
+# Additional materials:
+The initial data is available for download. [здесь](https://drive.google.com/drive/folders/1gdzplBJhksIchrXNwlStRVJKqnzRWgGk?usp=drive_link) 
