@@ -1,7 +1,7 @@
 # Hotel Reviews EDA & Feature Engineering
 ## Project Overview
 
-This repository contains an exploratory data analysis (EDA) and feature engineering project on hotel reviews. The goal is to preprocess hotel review data, extract meaningful features from text and categorical columns, and prepare the dataset for machine learning models (Random Forest Regressor).
+This repository contains an [exploratory data analysis (EDA)](https://github.com/dariakol57/sf_data_science/blob/main/Project_3/EDA_hotels.ipynb) and feature engineering project on hotel reviews. The goal is to preprocess hotel review data, extract meaningful features from text and categorical columns, and prepare the dataset for machine learning models (Random Forest Regressor).
 
 ## Key objectives include:
 
